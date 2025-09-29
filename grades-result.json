@@ -1,0 +1,42 @@
+{
+  "subjects": [
+    {
+      "subject": "Matematika",
+      "grade": 3
+    },
+    {
+      "subject": "Testnevelés",
+      "grade": 4
+    },
+    {
+      "subject": "Ének-zene",
+      "grade": 2.5
+    },
+    {
+      "subject": "Rajz",
+      "grade": 2
+    },
+    {
+      "subject": "C#",
+      "grade": 4
+    }
+  ],
+  "students": [
+    {
+      "student": "Béla",
+      "grade": 3.5
+    },
+    {
+      "student": "Erzsi",
+      "grade": 3.5
+    },
+    {
+      "student": "Erika",
+      "grade": 3
+    },
+    {
+      "student": "Zsolt",
+      "grade": 3
+    }
+  ]
+}
